@@ -1,21 +1,66 @@
-# 💫 About Me:
-💫 About Me:<br>🌟 I’m an IT undergraduate, set to graduate in 2026, with a deep enthusiasm for creating and innovating in the world of Web 🌐 and App 📱 Development. I thrive on building responsive, user-friendly applications and enjoy tackling challenges 🧩 in the development process. Driven by curiosity and growth 📈, I’m diving into both frontend 🎨 and backend ⚙️ technologies to become a versatile developer.<br><br>💡 What I’m Up To<br>📚 Learning: Currently exploring React Native and modern web frameworks<br>🛠️ Building: Working on projects to develop real-world skills and solve practical problems<br>🌍 Exploring: Staying updated on industry trends and new tech to enhance my development skills<br>Feel free to connect with me on social media 🌐 or check out my projects 🔗 to see what I’m working on!
+# Hi, I'm Syed Muqeem Ahmed 👋
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/syedmuqeem03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syed_muqeem_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuqeemahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syedmuqeem03) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedMuqeem03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedMuqeem03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedMuqeem03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Linux & DevOps Engineer** | Specializing in Linux Systems Administration, Infrastructure as Code (IaC), Container Orchestration, and Production CI/CD Pipelines.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedMuqeem03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+* 🔭 **Currently Operating As:** DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions)[cite: 4].
+* 🎓 **Education:** B.E. in Information Technology, Muffakham Jah College of Engineering & Technology (2022–2026)[cite: 6].
+* 🛠️ **Core Focus:** Linux system diagnostics, automated log rotation, self-healing Kubernetes workloads, GitOps deployments, and infrastructure provisioning.
+* 🤝 **Community:** Ex-Vice Chair of TSIG at MJCET, mentoring 100+ student developers on Git, Linux, and DevOps practices[cite: 6].
+* 📬 **Reach Me:** [smuqeem03@gmail.com](mailto:smuqeem03@gmail.com) | [LinkedIn](https://linkedin.com/in/syedmuqeemahmed)[cite: 4]
+
+---
+
+### 🛠️ Technical Stack & Infrastructure Tools
+
+#### **Linux, Systems & Automation**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Cloud, IaC & Orchestration**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### **CI/CD, Monitoring & Security**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+### 🚀 Featured DevOps Projects
+
+| Project Name | Architecture & Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **Self-Healing Deployment Platform** | `Kubernetes` `Argo CD` `GitHub Actions` `Terraform` `Prometheus` `Grafana` | Built automated CI/CD GitOps pipelines with security scanning, failure detection, and controlled automated rollbacks. |
+| **OpenPulse Intelligence Pipeline** | `Python` `GitHub Actions` `REST APIs` `JSON` | Automated security advisory ingestion, deduplication, and daily commit-gated report generation[cite: 5]. |
+| **Llama Autonomous Edge AI Engine**[cite: 5] | `Ollama` `Python` `Linux Edge` `Diagnostics`[cite: 5] | Deployed local LLM execution pipelines on resource-constrained Linux edge devices[cite: 5]. |
+| **Containerized MERN Deployment**[cite: 5] | `Docker` `Docker Compose` `Ubuntu` `MongoDB`[cite: 5] | Multi-stage Docker packaging with custom bridge network isolation and containerized security[cite: 5]. |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedMuqeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Syed's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedMuqeem03&theme=dark&hide_border=false" alt="Syed's Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuqeemahmed)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuqeem03@gmail.com)
