@@ -5,11 +5,11 @@
 ---
 
 ### 💫 About Me
-* 🔭 **Currently Operating As:** DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions)[cite: 4].
-* 🎓 **Education:** B.E. in Information Technology, Muffakham Jah College of Engineering & Technology (2022–2026)[cite: 6].
+* 🔭 **Currently Operating As:** DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions).
+* 🎓 **Education:** B.E. in Information Technology, Muffakham Jah College of Engineering & Technology (2022–2026).
 * 🛠️ **Core Focus:** Linux system diagnostics, automated log rotation, self-healing Kubernetes workloads, GitOps deployments, and infrastructure provisioning.
-* 🤝 **Community:** Ex-Vice Chair of TSIG at MJCET, mentoring 100+ student developers on Git, Linux, and DevOps practices[cite: 6].
-* 📬 **Reach Me:** [smuqeem03@gmail.com](mailto:smuqeem03@gmail.com) | [LinkedIn](https://linkedin.com/in/syedmuqeemahmed)[cite: 4]
+* 🤝 **Community:** Ex-Vice Chair of TSIG at MJCET, mentoring 100+ student developers on Git, Linux, and DevOps practices.
+* 📬 **Reach Me:** [smuqeem03@gmail.com](mailto:smuqeem03@gmail.com) | [LinkedIn](https://linkedin.com/in/syedmuqeemahmed)
 
 ---
 
@@ -42,9 +42,9 @@
 | Project Name | Architecture & Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
 | **Self-Healing Deployment Platform** | `Kubernetes` `Argo CD` `GitHub Actions` `Terraform` `Prometheus` `Grafana` | Built automated CI/CD GitOps pipelines with security scanning, failure detection, and controlled automated rollbacks. |
-| **OpenPulse Intelligence Pipeline** | `Python` `GitHub Actions` `REST APIs` `JSON` | Automated security advisory ingestion, deduplication, and daily commit-gated report generation[cite: 5]. |
-| **Llama Autonomous Edge AI Engine**[cite: 5] | `Ollama` `Python` `Linux Edge` `Diagnostics`[cite: 5] | Deployed local LLM execution pipelines on resource-constrained Linux edge devices[cite: 5]. |
-| **Containerized MERN Deployment**[cite: 5] | `Docker` `Docker Compose` `Ubuntu` `MongoDB`[cite: 5] | Multi-stage Docker packaging with custom bridge network isolation and containerized security[cite: 5]. |
+| **OpenPulse Intelligence Pipeline** | `Python` `GitHub Actions` `REST APIs` `JSON` | Automated security advisory ingestion, deduplication, and daily commit-gated report generation. |
+| **Llama Autonomous Edge AI Engine** | `Ollama` `Python` `Linux Edge` `Diagnostics` | Deployed local LLM execution pipelines on resource-constrained Linux edge devices. |
+| **Containerized MERN Deployment** | `Docker` `Docker Compose` `Ubuntu` `MongoDB`] | Multi-stage Docker packaging with custom bridge network isolation and containerized security]. |
 
 ---
 
