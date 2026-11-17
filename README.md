@@ -2,9 +2,9 @@
 
 # Hi, I'm Syed Muqeem Ahmed 👋
 
-### Early-career Linux & DevOps Engineer
+### Linux & DevOps Engineer
 
-Linux Systems Administration • Infrastructure Automation • Containers • CI/CD • Kubernetes
+Linux Administration • Automation • Containers • CI/CD • Kubernetes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuqeemahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuqeem03@gmail.com)
@@ -16,26 +16,22 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 
 ### 💫 About Me
 
-- 🔭 **Experience:** DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions)
-- 🎓 **Education:** B.E. in Information Technology, Muffakham Jah College of Engineering & Technology
-- 🛠️ **Focus:** Linux troubleshooting, automation, containers, CI/CD, Kubernetes, and infrastructure as code
-- 🤝 **Community:** Technical leadership with TSIG at MJCET, including sessions for 100+ student developers
-- 🎯 **Target roles:** Junior DevOps Engineer, Linux Administrator, Cloud Support Engineer, and Infrastructure Support Engineer
+I build practical projects around Linux systems, infrastructure automation, containerized applications, CI/CD pipelines, and cloud-native technologies.
 
 ---
 
-### 🛠️ Technical Stack & Infrastructure Tools
+### 🛠️ Technical Stack
 
-#### Linux, Systems & Automation
+#### Linux & Automation
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### Cloud, Containers & Infrastructure as Code
+#### Cloud, Containers & IaC
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,7 +39,7 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-#### CI/CD, GitOps & Observability
+#### CI/CD & Observability
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -54,12 +50,12 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 
 ---
 
-### 🚀 Featured DevOps Projects
+### 🚀 Featured Projects
 
 | Project | Technologies | Highlights |
 | :--- | :--- | :--- |
-| [**SentinelDeploy — Self-Healing Deployment Platform**](https://github.com/SyedMuqeem03/sentineldeploy) | Kubernetes, Docker, GitHub Actions, Gitleaks, Trivy, k3d | Automated testing, security scanning, Docker smoke testing, application health checks, metrics, and local Kubernetes deployment. |
-| [**OpenPulse Intelligence Pipeline**](https://github.com/SyedMuqeem03/OpenPulse) | Python, REST APIs, JSON, GitHub Actions, pytest, Ruff | Collects public security, DevOps-release, and service-status signals, then generates structured reports through scheduled automation. |
+| [**SentinelDeploy**](https://github.com/SyedMuqeem03/sentineldeploy) | Kubernetes, Docker, GitHub Actions, Gitleaks, Trivy, k3d | Automated testing, security scanning, Docker validation, health checks, metrics, and local Kubernetes deployment. |
+| [**OpenPulse**](https://github.com/SyedMuqeem03/OpenPulse) | Python, REST APIs, JSON, GitHub Actions, pytest, Ruff | Collects public security, DevOps-release, and service-status data and generates structured reports. |
 
 ### SentinelDeploy CI
 
@@ -71,9 +67,9 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 
 ---
 
+### 🤝 Open Source
 
-
-I am interested in contributing documentation, tests, CI improvements, and Linux/DevOps automation fixes to open-source projects.
+Interested in contributing documentation, tests, CI improvements, and Linux/DevOps automation fixes.
 
 ---
 
@@ -82,5 +78,3 @@ I am interested in contributing documentation, tests, CI improvements, and Linux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuqeemahmed)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuqeem03@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedMuqeem03)
