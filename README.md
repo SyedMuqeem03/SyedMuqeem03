@@ -60,8 +60,6 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 | :--- | :--- | :--- |
 | [**SentinelDeploy — Self-Healing Deployment Platform**](https://github.com/SyedMuqeem03/sentineldeploy) | Kubernetes, Docker, GitHub Actions, Gitleaks, Trivy, k3d | Automated testing, security scanning, Docker smoke testing, application health checks, metrics, and local Kubernetes deployment. |
 | [**OpenPulse Intelligence Pipeline**](https://github.com/SyedMuqeem03/OpenPulse) | Python, REST APIs, JSON, GitHub Actions, pytest, Ruff | Collects public security, DevOps-release, and service-status signals, then generates structured reports through scheduled automation. |
-| **Llama-Based Autonomous Edge AI Engine** | Python, Ollama, Linux, system diagnostics | Linux-based local AI and system-diagnostics project for constrained edge environments. |
-| **Employee Records — Containerised MERN Deployment** | Docker, Docker Compose, Node.js, MongoDB, Ubuntu | Containerised full-stack deployment using multi-stage images and isolated Docker networking. |
 
 ### SentinelDeploy CI
 
@@ -73,26 +71,7 @@ Linux Systems Administration • Infrastructure Automation • Containers • CI
 
 ---
 
-### 📚 Currently Learning
 
-- AWS infrastructure design and operational practices
-- Kubernetes deployment and troubleshooting
-- GitOps and progressive delivery
-- Monitoring, alerting, and reliability engineering
-- Secure infrastructure automation
-
----
-
-### 🤝 Documentation & Collaboration
-
-I value:
-
-- Reproducible setup instructions
-- Clear architecture diagrams
-- Automated testing
-- Useful commit messages
-- Troubleshooting documentation
-- Honest documentation of project limitations
 
 I am interested in contributing documentation, tests, CI improvements, and Linux/DevOps automation fixes to open-source projects.
 
