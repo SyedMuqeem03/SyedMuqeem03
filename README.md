@@ -1,66 +1,63 @@
-# Hi, I'm Syed Muqeem Ahmed 👋
+# Hi, I'm Syed Muqeem Ahmed
 
-**Linux & DevOps Engineer** | Specializing in Linux Systems Administration, Infrastructure as Code (IaC), Container Orchestration, and Production CI/CD Pipelines.
+**Early-career DevOps & Linux systems engineer** focused on Linux administration, infrastructure automation, containerized delivery, CI/CD, and cloud infrastructure.
 
----
+## About me
 
-### 💫 About Me
-* 🔭 **Currently Operating As:** DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions).
-* 🎓 **Education:** B.E. in Information Technology, Muffakham Jah College of Engineering & Technology (2022–2026).
-* 🛠️ **Core Focus:** Linux system diagnostics, automated log rotation, self-healing Kubernetes workloads, GitOps deployments, and infrastructure provisioning.
-* 🤝 **Community:** Ex-Vice Chair of TSIG at MJCET, mentoring 100+ student developers on Git, Linux, and DevOps practices.
-* 📬 **Reach Me:** [smuqeem03@gmail.com](mailto:smuqeem03@gmail.com) | [LinkedIn](https://linkedin.com/in/syedmuqeemahmed)
+- DevOps & Systems Engineering Intern at Talent Cogent (JKMK Solutions)
+- B.E. in Information Technology, Muffakham Jah College of Engineering & Technology
+- Focused on Linux troubleshooting, automation, Docker, Kubernetes, GitHub Actions, and infrastructure as code
+- Interested in Junior DevOps Engineer, Linux Administrator, Cloud Support Engineer, and Infrastructure Support Engineer roles
+- Former Vice Chair of TSIG at MJCET, where I helped deliver technical sessions for 100+ student developers
 
----
+## Technical areas
 
-### 🛠️ Technical Stack & Infrastructure Tools
+### Linux and automation
 
-#### **Linux, Systems & Automation**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat Enterprise Linux](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Linux, Ubuntu, RHEL, Bash, Python, systemd, SSH, storage, logs, permissions, and troubleshooting.
 
-#### **Cloud, IaC & Orchestration**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### Containers and orchestration
 
-#### **CI/CD, Monitoring & Security**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+Docker, Docker Compose, Kubernetes, k3d, container health checks, and deployment workflows.
 
----
+### CI/CD and infrastructure
 
-### 🚀 Featured DevOps Projects
+Git, GitHub Actions, Jenkins, Terraform, Ansible, CI/CD concepts, and infrastructure automation.
 
-| Project Name | Architecture & Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **Self-Healing Deployment Platform** | `Kubernetes` `Argo CD` `GitHub Actions` `Terraform` `Prometheus` `Grafana` | Built automated CI/CD GitOps pipelines with security scanning, failure detection, and controlled automated rollbacks. |
-| **OpenPulse Intelligence Pipeline** | `Python` `GitHub Actions` `REST APIs` `JSON` | Automated security advisory ingestion, deduplication, and daily commit-gated report generation. |
-| **Llama Autonomous Edge AI Engine** | `Ollama` `Python` `Linux Edge` `Diagnostics` | Deployed local LLM execution pipelines on resource-constrained Linux edge devices. |
-| **Containerized MERN Deployment** | `Docker` `Docker Compose` `Ubuntu` `MongoDB`] | Multi-stage Docker packaging with custom bridge network isolation and containerized security]. |
+### Cloud and observability
 
----
+AWS fundamentals, EC2, S3, IAM, VPC, Prometheus, Grafana, and monitoring concepts.
 
-### 📊 GitHub Activity
+## Featured projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedMuqeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Syed's GitHub Stats" />
-</p>
+### [SentinelDeploy — Self-Healing Deployment Platform](https://github.com/SyedMuqeem03/sentineldeploy)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedMuqeem03&theme=dark&hide_border=false" alt="Syed's Streak" />
-</p>
+A DevOps delivery project for validating a Node.js service with automated tests, security scanning, Docker smoke tests, health checks, metrics, and local Kubernetes deployment.
 
----
+The current public repository demonstrates Docker, GitHub Actions, Gitleaks, Trivy, k3d, Kubernetes manifests, readiness/liveness probes, and Prometheus-format application metrics. GitOps, cloud provisioning, dashboards, and automated rollback are documented as ongoing development areas.
 
-### 🌐 Connect With Me
+### [OpenPulse Intelligence Pipeline](https://github.com/SyedMuqeem03/OpenPulse)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuqeemahmed)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuqeem03@gmail.com)
+A Python automation pipeline that collects public security, DevOps-release, and service-status signals, normalizes and deduplicates the data, and generates structured reports through GitHub Actions.
+
+The project includes pytest coverage, Ruff linting, scheduled automation, JSON persistence, Markdown reports, and meaningful-change detection to avoid unnecessary commits.
+
+### [AWS Terraform Practice](https://github.com/SyedMuqeem03/aws-terraform-practise)
+
+A small Terraform practice configuration for basic AWS resources. This repository is being improved with safer variables, validation, state guidance, cost warnings, and clearer documentation.
+
+## Currently learning
+
+Deepening practical AWS, Kubernetes, GitOps, progressive delivery, and observability skills through self-directed projects.
+
+## Documentation and collaboration
+
+I value reproducible setup instructions, useful tests, clear commit messages, troubleshooting notes, and honest documentation of project limitations.
+
+I am interested in contributing documentation, tests, CI improvements, and Linux/DevOps automation fixes to open-source projects.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/syedmuqeemahmed/)
+- [GitHub](https://github.com/SyedMuqeem03)
+- [Email](mailto:smuqeem03@gmail.com)
